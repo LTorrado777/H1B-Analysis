@@ -1,4 +1,4 @@
-![images DATA Analyst](https://user-images.githubusercontent.com/129564426/233806053-d57039f1-41ca-435b-a1d7-c4b90d97390c.jpg)
+![Data-Analytics Image](https://user-images.githubusercontent.com/129564426/233806431-03cf3cd3-827b-47ad-903a-3addfff95921.jpg)
 
 
 # Data Analysis of H1B Visas in USA on 2022 in Python

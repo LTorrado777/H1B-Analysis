@@ -1,8 +1,9 @@
 
 
+
 # Data Analysis of H1B Visas in USA on 2022 in Python
 
-In this project, we perform an Exploratory Data Analysis of the Different H1B Visas granted in USA during 2022, on the way to know which are the best places to work, what are the carreers most needed, and which the Employers paying better wages.
+In this project, we perform an Exploratory Data Analysis of the Different H1B Visas granted in USA during 2022, on the way to know which are the best places to work, what are the carreers most needed, and which are the employers paying better wages.
 
 
 ## Features

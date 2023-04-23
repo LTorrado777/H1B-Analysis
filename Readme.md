@@ -3,15 +3,17 @@
 
 # Data Analysis of H1B Visas in USA on 2022 in Python
 
-In this project, we perform an Exploratory Data Analysis of the Different H1B Visas granted in USA during 2022, on the way to know which are the best places to work, what are the carreers most needed, and which are the employers paying better wages.
+In this project, we perform an Exploratory Data Analysis of the Different H1B Visas granted in USA during 2022, on the way to know wich are the best places to work, what are the carreers most needed, and which the Employers paying better wages.
 
 
-## Features
+## Tools
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+
+
+[![MIT License](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+
+[![GPLv3 License](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org)
+
 
 
 ## FAQ
@@ -30,7 +32,7 @@ New York, New York	/ Seattle, Washington / San Francisco, California
 - [@LTorrado777](https://www.github.com/LTorrado777)
 
 
-## Usage/Examples
+## Libraries Used
 
 ```python
 %matplotlib inline
@@ -38,4 +40,3 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv("LCA_FY_2022.csv")
